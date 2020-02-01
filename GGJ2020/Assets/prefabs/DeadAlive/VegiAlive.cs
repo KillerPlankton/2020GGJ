@@ -19,6 +19,12 @@ public class VegiAlive : MonoBehaviour
         ToggleObjects();
     }
 
+    public void SetAlive(bool isAlive = true)
+    {
+        _isAlive = isAlive;
+        ToggleObjects();
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.GetComponent<DeadAliveCollider>() != null)
