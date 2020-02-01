@@ -5,6 +5,9 @@ using UnityEngine;
 public class Outpost : MonoBehaviour
 {
 
+    public Light spotLight;
+    public float degreesPerSecond = 180f;
+
     public void OnInteraction()
     {
         Debug.Log("You've interacted with me");
@@ -18,6 +21,6 @@ public class Outpost : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        spotLight.transform.RotateAround(Vector3.up, degreesPerSecond * Time.deltaTime);
     }
 }
