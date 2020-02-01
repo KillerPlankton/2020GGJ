@@ -47,6 +47,14 @@ public class Tracker : MonoBehaviour
         cone.GetComponent<MeshRenderer>().enabled = showTrackerCone;
         signalStrength += Input.GetAxis("Mouse ScrollWheel");
         signalStrength = Mathf.Clamp(signalStrength, minValue, maxValue);
-        cone.transform.localScale = new Vector3(defaultConeScale + signalStrength / 5, defaultConeScale, defaultConeScale + signalStrength / 5);
+        if (signalStrength <= 0)
+        {
+            cone.SetActive(false);
+        } 
+        else
+        {
+            cone.SetActive(true);
+            cone.transform.localScale = new Vector3(defaultConeScale + signalStrength / 5, defaultConeScale, defaultConeScale + signalStrength / 5);
+        }
     }
 }

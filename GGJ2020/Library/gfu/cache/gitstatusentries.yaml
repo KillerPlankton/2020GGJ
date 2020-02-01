@@ -13,54 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-01T12:52:13.921-05:00
+  lastUpdatedAtString: 2020-02-01T13:08:25.358-05:00
   initializedAtString: 2020-02-01T11:22:52.244-05:00
   entries:
-  - path: GGJ2020\Assets\Editor.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Editor.meta
-    projectPath: Assets\Editor.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\Editor\Cone10v0t1b1l1o.asset
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Editor\Cone10v0t1b1l1o.asset
-    projectPath: Assets\Editor\Cone10v0t1b1l1o.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\Editor\Cone10v0t1b1l1o.asset.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Editor\Cone10v0t1b1l1o.asset.meta
-    projectPath: Assets\Editor\Cone10v0t1b1l1o.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\Editor\CreateCone.cs
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Editor\CreateCone.cs
-    projectPath: Assets\Editor\CreateCone.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\Editor\CreateCone.cs.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Editor\CreateCone.cs.meta
-    projectPath: Assets\Editor\CreateCone.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\prefabs\DeadAlive\VegiAlive.cs
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\DeadAlive\VegiAlive.cs
-    projectPath: Assets\prefabs\DeadAlive\VegiAlive.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: GGJ2020\Assets\prefabs\Player.prefab
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Player.prefab
     projectPath: Assets\prefabs\Player.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Assets\prefabs\Tracker.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Tracker.meta
-    projectPath: Assets\prefabs\Tracker.meta
+  - path: GGJ2020\Assets\prefabs\PlayerInteraction.cs
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\PlayerInteraction.cs
+    projectPath: Assets\prefabs\PlayerInteraction.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GGJ2020\Assets\prefabs\PlayerInteraction.cs.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\PlayerInteraction.cs.meta
+    projectPath: Assets\prefabs\PlayerInteraction.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -68,35 +38,29 @@ MonoBehaviour:
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Tracker\Tracker.cs
     projectPath: Assets\prefabs\Tracker\Tracker.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\prefabs\Tracker\Tracker.cs.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Tracker\Tracker.cs.meta
-    projectPath: Assets\prefabs\Tracker\Tracker.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Assets\prefabs\Tracker_MOD_DEMO.prefab
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Tracker_MOD_DEMO.prefab
-    projectPath: Assets\prefabs\Tracker_MOD_DEMO.prefab
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Assets\scripts.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts.meta
-    projectPath: Assets\scripts.meta
+  - path: GGJ2020\Assets\scripts\Interactable.cs
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\Interactable.cs
+    projectPath: Assets\scripts\Interactable.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\scripts\ConeRaycastExtension.cs
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\ConeRaycastExtension.cs
-    projectPath: Assets\scripts\ConeRaycastExtension.cs
+  - path: GGJ2020\Assets\scripts\Interactable.cs.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\Interactable.cs.meta
+    projectPath: Assets\scripts\Interactable.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\scripts\ConeRaycastExtension.cs.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\ConeRaycastExtension.cs.meta
-    projectPath: Assets\scripts\ConeRaycastExtension.cs.meta
+  - path: GGJ2020\Assets\scripts\Outpost.cs
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\Outpost.cs
+    projectPath: Assets\scripts\Outpost.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GGJ2020\Assets\scripts\Outpost.cs.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\Outpost.cs.meta
+    projectPath: Assets\scripts\Outpost.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -118,6 +82,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: GGJ2020\Library\CrashedAssetImports.txt
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: GGJ2020\Library\gfu\cache\branches.yaml
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -148,39 +118,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: GGJ2020\Library\InspectorExpandedItems.asset
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d
-    projectPath: Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d
+  - path: GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890
+    projectPath: Library\metadata\48\48f84703c408a124396387dec3de6890
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d.info
-    projectPath: Library\metadata\0e\0eefe262ba5ffbe4a89ff6f740b5495d.info
+  - path: GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890.info
+    projectPath: Library\metadata\48\48f84703c408a124396387dec3de6890.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31
-    projectPath: Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31
+  - path: GGJ2020\Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1
+    projectPath: Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31.info
-    projectPath: Library\metadata\3a\3adb9ee62f6b92b42a072a4485ecff31.info
+  - path: GGJ2020\Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1.info
+    projectPath: Library\metadata\6b\6b862af8fd307b94696ea1383febb8b1.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -188,14 +152,8 @@ MonoBehaviour:
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\6d\6ddd650793b86b74db9cc7860c382e1b
     projectPath: Library\metadata\6d\6ddd650793b86b74db9cc7860c382e1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\6d\6ddd650793b86b74db9cc7860c382e1b.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\6d\6ddd650793b86b74db9cc7860c382e1b.info
-    projectPath: Library\metadata\6d\6ddd650793b86b74db9cc7860c382e1b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
     projectPath: Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
@@ -208,72 +166,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\a7\a727611b3421d2648b0846d546f154c2
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\a7\a727611b3421d2648b0846d546f154c2
-    projectPath: Library\metadata\a7\a727611b3421d2648b0846d546f154c2
+  - path: GGJ2020\Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1
+    projectPath: Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\a7\a727611b3421d2648b0846d546f154c2.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\a7\a727611b3421d2648b0846d546f154c2.info
-    projectPath: Library\metadata\a7\a727611b3421d2648b0846d546f154c2.info
+  - path: GGJ2020\Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1.info
+    projectPath: Library\metadata\df\df1f67aa7f6d0f041911e43f32ca47d1.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\a8\a8ba7ec889a1bbf48980098862963f66
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\a8\a8ba7ec889a1bbf48980098862963f66
-    projectPath: Library\metadata\a8\a8ba7ec889a1bbf48980098862963f66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4
-    projectPath: Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4.info
-    projectPath: Library\metadata\ad\ad30922bc98fe6746869ae6099c6b2b4.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f
-    projectPath: Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f.info
-    projectPath: Library\metadata\d3\d3cd89fc226e98a458bcc7f1ac096b6f.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\de\de78423c263e5aa489b23517994f07bc
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\de\de78423c263e5aa489b23517994f07bc
-    projectPath: Library\metadata\de\de78423c263e5aa489b23517994f07bc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\de\de78423c263e5aa489b23517994f07bc.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\de\de78423c263e5aa489b23517994f07bc.info
-    projectPath: Library\metadata\de\de78423c263e5aa489b23517994f07bc.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\ed\ed99088dcc74cad43951d6843ded1845
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\ed\ed99088dcc74cad43951d6843ded1845
-    projectPath: Library\metadata\ed\ed99088dcc74cad43951d6843ded1845
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\ed\ed99088dcc74cad43951d6843ded1845.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\ed\ed99088dcc74cad43951d6843ded1845.info
-    projectPath: Library\metadata\ed\ed99088dcc74cad43951d6843ded1845.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: GGJ2020\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -292,18 +196,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: GGJ2020\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: GGJ2020\Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
     projectPath: Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
@@ -334,255 +226,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Temp\UnityTempFile-096547fd6943a0d4ba9955e35e78b14f
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-096547fd6943a0d4ba9955e35e78b14f
-    projectPath: Temp\UnityTempFile-096547fd6943a0d4ba9955e35e78b14f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-2a2f2993bb648104ca1dc8e4bdf95187
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-2a2f2993bb648104ca1dc8e4bdf95187
-    projectPath: Temp\UnityTempFile-2a2f2993bb648104ca1dc8e4bdf95187
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-2ab897a189f6b8b4ba2253bc1a07056a
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-2ab897a189f6b8b4ba2253bc1a07056a
-    projectPath: Temp\UnityTempFile-2ab897a189f6b8b4ba2253bc1a07056a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-304725822506ea547a614e92e35151b8
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-304725822506ea547a614e92e35151b8
-    projectPath: Temp\UnityTempFile-304725822506ea547a614e92e35151b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-3719072b284fb884d90c9702a19d22c9
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-3719072b284fb884d90c9702a19d22c9
-    projectPath: Temp\UnityTempFile-3719072b284fb884d90c9702a19d22c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-37468d26dce547f4cac4dc23f5bf7ab4
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-37468d26dce547f4cac4dc23f5bf7ab4
-    projectPath: Temp\UnityTempFile-37468d26dce547f4cac4dc23f5bf7ab4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-46ae3605b6a65a54e8ce635d1730f422
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-46ae3605b6a65a54e8ce635d1730f422
-    projectPath: Temp\UnityTempFile-46ae3605b6a65a54e8ce635d1730f422
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-4a1ff29a1d5ef4146875fe97aacead08
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-4a1ff29a1d5ef4146875fe97aacead08
-    projectPath: Temp\UnityTempFile-4a1ff29a1d5ef4146875fe97aacead08
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-50e5796af8b9b9440a089cc5af80db85
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-50e5796af8b9b9440a089cc5af80db85
-    projectPath: Temp\UnityTempFile-50e5796af8b9b9440a089cc5af80db85
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-5c679450a38edc745b90a0196e3bb8da
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-5c679450a38edc745b90a0196e3bb8da
-    projectPath: Temp\UnityTempFile-5c679450a38edc745b90a0196e3bb8da
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-61d8186f98572ad4288f680ed9963793
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-61d8186f98572ad4288f680ed9963793
-    projectPath: Temp\UnityTempFile-61d8186f98572ad4288f680ed9963793
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-65cb91b43466b714c95815c06dd0b725
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-65cb91b43466b714c95815c06dd0b725
-    projectPath: Temp\UnityTempFile-65cb91b43466b714c95815c06dd0b725
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-67d48253120842f4f89d389021f7423a
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-67d48253120842f4f89d389021f7423a
-    projectPath: Temp\UnityTempFile-67d48253120842f4f89d389021f7423a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-6db9f805ec42bd140a091f5bde82e3f1
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-6db9f805ec42bd140a091f5bde82e3f1
-    projectPath: Temp\UnityTempFile-6db9f805ec42bd140a091f5bde82e3f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-7161478fb8a952c4b831a934bb8d6c2f
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-7161478fb8a952c4b831a934bb8d6c2f
-    projectPath: Temp\UnityTempFile-7161478fb8a952c4b831a934bb8d6c2f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-71d9ca3b79022a2419f4ec455f984fad
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-71d9ca3b79022a2419f4ec455f984fad
-    projectPath: Temp\UnityTempFile-71d9ca3b79022a2419f4ec455f984fad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-847644327ad3aa54d984cf88194e0fbe
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-847644327ad3aa54d984cf88194e0fbe
-    projectPath: Temp\UnityTempFile-847644327ad3aa54d984cf88194e0fbe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-890d444fc4a17d54b9f0e676241232a0
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-890d444fc4a17d54b9f0e676241232a0
-    projectPath: Temp\UnityTempFile-890d444fc4a17d54b9f0e676241232a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-9178de17c8f6c034b8f0cfd339b0a430
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-9178de17c8f6c034b8f0cfd339b0a430
-    projectPath: Temp\UnityTempFile-9178de17c8f6c034b8f0cfd339b0a430
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-97171079da4987e4eb1b6b29ac70424f
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-97171079da4987e4eb1b6b29ac70424f
-    projectPath: Temp\UnityTempFile-97171079da4987e4eb1b6b29ac70424f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-9bc2aeb16f6ea50498a687f5104353e6
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-9bc2aeb16f6ea50498a687f5104353e6
-    projectPath: Temp\UnityTempFile-9bc2aeb16f6ea50498a687f5104353e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-9e81d36bc51b52b4886685243f728a7c
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-9e81d36bc51b52b4886685243f728a7c
-    projectPath: Temp\UnityTempFile-9e81d36bc51b52b4886685243f728a7c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-a1ce85fe923effb4ca771a6ef381857d
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-a1ce85fe923effb4ca771a6ef381857d
-    projectPath: Temp\UnityTempFile-a1ce85fe923effb4ca771a6ef381857d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-a41a5d8a4012a7b4392e2a0ae685846b
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-a41a5d8a4012a7b4392e2a0ae685846b
-    projectPath: Temp\UnityTempFile-a41a5d8a4012a7b4392e2a0ae685846b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-a7c062fa3df66ef43a59537fd7b731e5
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-a7c062fa3df66ef43a59537fd7b731e5
-    projectPath: Temp\UnityTempFile-a7c062fa3df66ef43a59537fd7b731e5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-a887c1075d999f8428be44404257914b
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-a887c1075d999f8428be44404257914b
-    projectPath: Temp\UnityTempFile-a887c1075d999f8428be44404257914b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-ade363aa4af3ef04bac83688134529b6
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-ade363aa4af3ef04bac83688134529b6
-    projectPath: Temp\UnityTempFile-ade363aa4af3ef04bac83688134529b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-b4f2f8db210e3c54da61d9b3c5ac8c5b
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-b4f2f8db210e3c54da61d9b3c5ac8c5b
-    projectPath: Temp\UnityTempFile-b4f2f8db210e3c54da61d9b3c5ac8c5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-b8e3a21bf3dbaef4385f9a2943b81ed4
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-b8e3a21bf3dbaef4385f9a2943b81ed4
-    projectPath: Temp\UnityTempFile-b8e3a21bf3dbaef4385f9a2943b81ed4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-c424095e006b1674c9f501b60616007a
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-c424095e006b1674c9f501b60616007a
-    projectPath: Temp\UnityTempFile-c424095e006b1674c9f501b60616007a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-cb4c777cd68ac4243bcf0508532b16c6
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-cb4c777cd68ac4243bcf0508532b16c6
-    projectPath: Temp\UnityTempFile-cb4c777cd68ac4243bcf0508532b16c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-d7ab9728b30c0fc45be08bae8f5512d8
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-d7ab9728b30c0fc45be08bae8f5512d8
-    projectPath: Temp\UnityTempFile-d7ab9728b30c0fc45be08bae8f5512d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-dafb3f4cc2f47d049bc1d37a5b21d19b
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-dafb3f4cc2f47d049bc1d37a5b21d19b
-    projectPath: Temp\UnityTempFile-dafb3f4cc2f47d049bc1d37a5b21d19b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-e00d5a4f310841f44815cf771a4bbca9
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-e00d5a4f310841f44815cf771a4bbca9
-    projectPath: Temp\UnityTempFile-e00d5a4f310841f44815cf771a4bbca9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-e03dbdc46d08e524c8bb005820dda4ee
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-e03dbdc46d08e524c8bb005820dda4ee
-    projectPath: Temp\UnityTempFile-e03dbdc46d08e524c8bb005820dda4ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-e1a38398ed26c3b4a8f139ffac32cdbd
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-e1a38398ed26c3b4a8f139ffac32cdbd
-    projectPath: Temp\UnityTempFile-e1a38398ed26c3b4a8f139ffac32cdbd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-e552e91e014e2984cb820249569aa617
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-e552e91e014e2984cb820249569aa617
-    projectPath: Temp\UnityTempFile-e552e91e014e2984cb820249569aa617
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-f1c455206df4db24e821e087e7224020
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-f1c455206df4db24e821e087e7224020
-    projectPath: Temp\UnityTempFile-f1c455206df4db24e821e087e7224020
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-f8e9510772f2ba24c80391843c28e943
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-f8e9510772f2ba24c80391843c28e943
-    projectPath: Temp\UnityTempFile-f8e9510772f2ba24c80391843c28e943
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-f95711ac5bc2c6e4a8240f5816cc797e
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-f95711ac5bc2c6e4a8240f5816cc797e
-    projectPath: Temp\UnityTempFile-f95711ac5bc2c6e4a8240f5816cc797e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-fad6b64acfa434c43b81ab859654a524
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-fad6b64acfa434c43b81ab859654a524
-    projectPath: Temp\UnityTempFile-fad6b64acfa434c43b81ab859654a524
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: GGJ2020\Temp\UnityTempFile-ffd929dffd8570f4eae0061068eb1f5b
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Temp\UnityTempFile-ffd929dffd8570f4eae0061068eb1f5b
-    projectPath: Temp\UnityTempFile-ffd929dffd8570f4eae0061068eb1f5b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
