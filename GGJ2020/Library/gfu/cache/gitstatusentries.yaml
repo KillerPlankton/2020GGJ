@@ -13,36 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-01T16:29:09.603-05:00
+  lastUpdatedAtString: 2020-02-01T17:07:14.897-05:00
   initializedAtString: 2020-02-01T11:22:52.244-05:00
   entries:
-  - path: GGJ2020\Assets\outpost_MOD(red).fbx
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\outpost_MOD(red).fbx
-    projectPath: Assets\outpost_MOD(red).fbx
+  - path: GGJ2020\Assets\Grab Objects.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Grab Objects.meta
+    projectPath: Assets\Grab Objects.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\outpost_MOD(red).fbx.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\outpost_MOD(red).fbx.meta
-    projectPath: Assets\outpost_MOD(red).fbx.meta
+  - path: GGJ2020\Assets\Grab Objects\CanGrab.cs
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Grab Objects\CanGrab.cs
+    projectPath: Assets\Grab Objects\CanGrab.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\prefabs\Outpost.prefab
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Outpost.prefab
-    projectPath: Assets\prefabs\Outpost.prefab
+  - path: GGJ2020\Assets\Grab Objects\CanGrab.cs.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Grab Objects\CanGrab.cs.meta
+    projectPath: Assets\Grab Objects\CanGrab.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\prefabs\Outpost.prefab.meta
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Outpost.prefab.meta
-    projectPath: Assets\prefabs\Outpost.prefab.meta
+  - path: GGJ2020\Assets\Grab Objects\Grabber.cs
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Grab Objects\Grabber.cs
+    projectPath: Assets\Grab Objects\Grabber.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Assets\scripts\Outpost.cs
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\scripts\Outpost.cs
-    projectPath: Assets\scripts\Outpost.cs
+  - path: GGJ2020\Assets\Grab Objects\Grabber.cs.meta
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\Grab Objects\Grabber.cs.meta
+    projectPath: Assets\Grab Objects\Grabber.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GGJ2020\Assets\prefabs\Player.prefab
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Assets\prefabs\Player.prefab
+    projectPath: Assets\prefabs\Player.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -113,33 +119,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\48\48f84703c408a124396387dec3de6890
-    projectPath: Library\metadata\48\48f84703c408a124396387dec3de6890
+  - path: GGJ2020\Library\InspectorExpandedItems.asset
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7
-    projectPath: Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7
+  - path: GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
+    projectPath: Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d.info
+    projectPath: Library\metadata\7f\7f65a446e7b03c64eb1e8a6eb8a5447d.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GGJ2020\Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe
+    projectPath: Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7.info
-    projectPath: Library\metadata\65\6514241adba5ef44586204fb4f2ce5a7.info
+  - path: GGJ2020\Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe.info
+    projectPath: Library\metadata\9c\9cb13d643483ba24aa56ecbd1f2f5dfe.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95
-    projectPath: Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95
+  - path: GGJ2020\Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1
+    projectPath: Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: GGJ2020\Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95.info
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95.info
-    projectPath: Library\metadata\bb\bb21ae00710a62a4e8c476adc0baed95.info
+  - path: GGJ2020\Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1.info
+    projectPath: Library\metadata\c4\c4ece17cf92a95845aef3c1a88c7fad1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GGJ2020\Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4
+    projectPath: Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GGJ2020\Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4.info
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4.info
+    projectPath: Library\metadata\cc\cc36076928da2514a9bd3cfcd5afafb4.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -161,27 +191,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\StateCache\Hierarchy\8d110e-6514241adba5ef4458.json
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\Hierarchy\8d110e-6514241adba5ef4458.json
-    projectPath: Library\StateCache\Hierarchy\8d110e-6514241adba5ef4458.json
+  - path: GGJ2020\Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
+    projectPath: Library\StateCache\Hierarchy\8d110e-7f65a446e7b03c64eb.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: GGJ2020\Library\StateCache\Hierarchy\8d110e-mainStage.json
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\Hierarchy\8d110e-mainStage.json
     projectPath: Library\StateCache\Hierarchy\8d110e-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: GGJ2020\Library\StateCache\SceneView\003fdc-6514241adba5ef4458.json
-    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\SceneView\003fdc-6514241adba5ef4458.json
-    projectPath: Library\StateCache\SceneView\003fdc-6514241adba5ef4458.json
+  - path: GGJ2020\Library\StateCache\SceneView\003fdc-7f65a446e7b03c64eb.json
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\SceneView\003fdc-7f65a446e7b03c64eb.json
+    projectPath: Library\StateCache\SceneView\003fdc-7f65a446e7b03c64eb.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: GGJ2020\Library\StateCache\SceneView\003fdc-mainStage.json
     fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\Library\StateCache\SceneView\003fdc-mainStage.json
     projectPath: Library\StateCache\SceneView\003fdc-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GGJ2020\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\Library\Documents\GameJams\2020GGJ\GGJ2020\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
