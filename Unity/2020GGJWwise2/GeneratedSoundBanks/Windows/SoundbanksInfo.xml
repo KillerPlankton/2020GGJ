@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1002808132" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Cookie_Monster</ObjectPath>
+			<ShortName>Cookie_Monster</ShortName>
+			<Path>Cookie_Monster.bnk</Path>
+			<IncludedEvents>
+				<Event Id="919333747" Name="InitSounds" ObjectPath="\Events\Default Work Unit\InitSounds"/>
+				<Event Id="3648289583" Name="LanterneBuzz" ObjectPath="\Events\Default Work Unit\LanterneBuzz" MaxAttenuation="100.000000"/>
+				<Event Id="3511969607" Name="Radio_PowerOff" ObjectPath="\Events\Default Work Unit\Radio_PowerOff" MaxAttenuation="0.000000"/>
+				<Event Id="3600495859" Name="Radio_PowerOn" ObjectPath="\Events\Default Work Unit\Radio_PowerOn"/>
+				<Event Id="786903173" Name="Regeneration_Start" ObjectPath="\Events\Default Work Unit\Regeneration_Start"/>
+				<Event Id="2429990183" Name="Regeneration_Stop" ObjectPath="\Events\Default Work Unit\Regeneration_Stop"/>
+				<Event Id="3605787649" Name="River" ObjectPath="\Events\Default Work Unit\River" MaxAttenuation="100.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="154270758" Language="SFX">
+					<ShortName>Regeneration_End.wav</ShortName>
+					<Path>SFX\Regeneration_End_56D34C19.wem</Path>
+				</File>
+				<File Id="161294390" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-004.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-004_56D34C19.wem</Path>
+				</File>
+				<File Id="298500889" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-003.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-003_56D34C19.wem</Path>
+				</File>
+				<File Id="399695253" Language="SFX">
+					<ShortName>Regeneration_Beggining.wav</ShortName>
+					<Path>SFX\Regeneration_Beggining_56D34C19.wem</Path>
+				</File>
+				<File Id="432364559" Language="SFX">
+					<ShortName>Radio_WhiteNoise.wav</ShortName>
+					<Path>SFX\Radio_WhiteNoise_D6915C82.wem</Path>
+				</File>
+				<File Id="573773598" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-001.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-001_56D34C19.wem</Path>
+				</File>
+				<File Id="599940985" Language="SFX">
+					<ShortName>Music_Demo3_Radio_Comp.wav</ShortName>
+					<Path>SFX\Music_Demo3_Radio_Comp_8956FC97.wem</Path>
+				</File>
+				<File Id="611244004" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-005.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-005_56D34C19.wem</Path>
+				</File>
+				<File Id="698191384" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-002.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-002_56D34C19.wem</Path>
+				</File>
+				<File Id="744274348" Language="SFX">
+					<ShortName>Regeneration_Mid.wav</ShortName>
+					<Path>SFX\Regeneration_Mid_9974FED7.wem</Path>
+				</File>
+				<File Id="751347578" Language="SFX">
+					<ShortName>Radio_GlitchIntense.wav</ShortName>
+					<Path>SFX\Radio_GlitchIntense_E0F2B540.wem</Path>
+				</File>
+				<File Id="823483560" Language="SFX">
+					<ShortName>Obj_River-001.wav</ShortName>
+					<Path>SFX\Obj_River-001_56D34C19.wem</Path>
+				</File>
+				<File Id="873622866" Language="SFX">
+					<ShortName>Obj_River-002.wav</ShortName>
+					<Path>SFX\Obj_River-002_56D34C19.wem</Path>
+				</File>
+				<File Id="1041733321" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-006.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-006_56D34C19.wem</Path>
+				</File>
+				<File Id="1052434002" Language="SFX">
+					<ShortName>Radio_PowerOn.wav</ShortName>
+					<Path>SFX\Radio_PowerOn_18DA4577.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

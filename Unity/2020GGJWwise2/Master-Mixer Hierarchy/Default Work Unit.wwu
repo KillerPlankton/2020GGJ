@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{73246DF2-3E02-457C-A8F4-2EBCF3942516}" SchemaVersion="89">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{73246DF2-3E02-457C-A8F4-2EBCF3942516}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{EFD471E4-6560-4272-A6A3-A2F65282B913}" WorkUnitID="{D72FCA90-0902-472F-96EA-70FC489A7166}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="RadioSFX1" ID="{CFE7AF30-6639-48CB-8353-4E28E93B0370}">
+							<ReferenceList>
+								<Reference Name="Effect0" PluginName="Wwise Tremolo" CompanyID="0" PluginID="131" PluginType="3">
+									<ObjectRef Name="Fast_LF_Tremolo_No_Smoothing" ID="{D972718E-231C-4DBF-9288-FCAF4BF47B50}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+						<Bus Name="Radio" ID="{140A19D8-3F52-40DA-8694-58F350338C92}"/>
+						<Bus Name="Regeneration" ID="{67FBD70B-6772-4AB2-9105-35FFD9305B82}">
+							<PropertyList>
+								<Property Name="RecoveryTime" Type="Real64" Value="3"/>
+							</PropertyList>
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="Radio" ID="{140A19D8-3F52-40DA-8694-58F350338C92}"/>
+									<DuckingParam>
+										<Volume>-50</Volume>
+										<FadeInTime>4</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeExp1</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+								<DuckItem>
+									<BusRef Name="Music" ID="{0A3A620A-DEF6-414F-AABD-8B7B13337B05}"/>
+									<DuckingParam>
+										<Volume>-50</Volume>
+										<FadeInTime>4</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeExp1</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="Music" ID="{0A3A620A-DEF6-414F-AABD-8B7B13337B05}"/>
+						<Bus Name="PowerOn" ID="{24150EC2-92AF-4AAD-92FC-E25B96C8C50A}">
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="Music" ID="{0A3A620A-DEF6-414F-AABD-8B7B13337B05}"/>
+									<DuckingParam>
+										<Volume>-100</Volume>
+										<FadeInTime>2</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeExp1</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="VO" ID="{B79B1084-66DA-4139-BBF2-0E7E9EEE7003}">
+							<DuckingList>
+								<DuckItem>
+									<BusRef Name="Music" ID="{0A3A620A-DEF6-414F-AABD-8B7B13337B05}"/>
+									<DuckingParam>
+										<Volume>-200</Volume>
+										<FadeInTime>1</FadeInTime>
+										<FadeOutTime>0.200000002980232</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+								<DuckItem>
+									<BusRef Name="Radio" ID="{140A19D8-3F52-40DA-8694-58F350338C92}"/>
+									<DuckingParam>
+										<Volume>-20</Volume>
+										<FadeInTime>1</FadeInTime>
+										<FadeOutTime>1</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+								<DuckItem>
+									<BusRef Name="Glitchs" ID="{50A2B6DD-D3CE-438F-B4A9-FA08D07501AC}"/>
+									<DuckingParam>
+										<Volume>0</Volume>
+										<FadeInTime>0.5</FadeInTime>
+										<FadeOutTime>0.5</FadeOutTime>
+										<FadeCurve>FadeLinear</FadeCurve>
+									</DuckingParam>
+								</DuckItem>
+							</DuckingList>
+						</Bus>
+						<Bus Name="Glitchs" ID="{50A2B6DD-D3CE-438F-B4A9-FA08D07501AC}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{0D91992C-1E2F-4A26-85CF-C1EB3DBE018E}" WorkUnitID="{D72FCA90-0902-472F-96EA-70FC489A7166}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

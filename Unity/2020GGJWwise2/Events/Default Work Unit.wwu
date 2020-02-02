@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="InitSounds" ID="{9218D239-12B6-4BA0-9CF4-A734096BE9B7}">
+					<ChildrenList>
+						<Action Name="" ID="{0B72ACDA-8A7E-4B81-8898-25A234BB02B0}" ShortID="45523052">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Radio_Glitchs" ID="{5EA095E6-764B-434F-8A4C-E72AD33B262F}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{975AC083-55EB-4295-9184-27CC348F3C35}" ShortID="802816000">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MusicViolin2" ID="{F341B4EA-E7E6-4377-BB07-1ADFFF406055}" WorkUnitID="{3711CC2A-6403-4042-8165-4F1B0D31B7F4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AA09FFEB-68FE-4294-907A-581874BE8FB8}" ShortID="718944966">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Glitchs_Voice" ID="{408FF2C8-48EF-468C-A8DF-346D6967B89F}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Regeneration_Start" ID="{35B1FDB1-0B8E-401D-95EE-B0129DBE962F}">
+					<ChildrenList>
+						<Action Name="" ID="{1B5FD8FB-FD8E-4F66-96E4-79420A74AAE6}" ShortID="592469510">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="FadeInCurve" Type="int16" Value="7"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Regeneration" ID="{E919A6E0-6F01-451A-9FAD-EF8BDDB5FE3A}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Regeneration_Stop" ID="{12083C72-08A3-4972-BFE5-509EA7A58F05}">
+					<ChildrenList>
+						<Action Name="" ID="{3A82FA17-3912-4191-A69E-51E07E43B24E}" ShortID="526893433">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Regeneration_End" ID="{FB7450F3-3A57-4154-9B50-CC6B0B4471DC}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{F0E37E72-D847-46BA-AC07-CB91BACFD6DA}" ShortID="627831649">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="6"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Regeneration" ID="{E919A6E0-6F01-451A-9FAD-EF8BDDB5FE3A}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="River" ID="{D30690D8-E494-474E-8CC6-F95200384D56}">
+					<ChildrenList>
+						<Action Name="" ID="{EC462571-34BE-4A52-946C-03DD361F16D0}" ShortID="272623917">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="River" ID="{38B22673-C9CA-49B2-8F4E-CFF327863094}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="LanterneBuzz" ID="{7F27177D-DF7F-4EFE-A952-829B9C4CE61B}">
+					<ChildrenList>
+						<Action Name="" ID="{E9307468-A03A-4B85-AADD-068FDDBDC76C}" ShortID="295886793">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="LanterneBuzz" ID="{5325FBB6-8425-4237-8DA6-D414FB413DE9}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Radio_PowerOn" ID="{629544DF-6133-4567-8264-EA9A9CB6E9FC}">
+					<ChildrenList>
+						<Action Name="" ID="{520FB270-6D93-4C8F-B763-0F574AABA790}" ShortID="1008960404">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="FadeInCurve" Type="int16" Value="6"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Radio_PowerOn" ID="{24280589-1357-4520-8415-A2ECA3922D76}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Radio_PowerOff" ID="{A477FD18-1177-45A8-B925-04246C2F83C5}">
+					<ChildrenList>
+						<Action Name="" ID="{216B9032-F335-4E18-9D75-FEA693943577}" ShortID="13367785">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="6"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Radio_PowerOn" ID="{24280589-1357-4520-8415-A2ECA3922D76}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="VO" ID="{1C4C8E02-CADC-4F81-A87F-79A088AE4D1F}" ShortID="992228661">
+					<ChildrenList>
+						<Event Name="Tuto1" ID="{B719704D-117E-4FAC-93A0-4F72FF9B7C36}">
+							<ChildrenList>
+								<Action Name="" ID="{B4B9C4DD-8050-472A-90F7-C1FB35A21CEA}" ShortID="1068299497">
+									<PropertyList>
+										<Property Name="ActionType" Type="int16" Value="1"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="VO_Tuto1" ID="{3AB2A04D-411D-4D2A-AE0F-1DD6700D484A}" WorkUnitID="{21E4DC55-10CA-4ADC-BD50-7E2D55A17E46}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
