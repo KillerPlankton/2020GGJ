@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: db0de33bd909a1a4ca47d6d3d6fce3b2
+SpeedTreeImporter:
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maple2_Dead_LOD0
+    second: {fileID: 2100000, guid: 256abdc619ee1204fa28a207cadc3a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_LOD0
+    second: {fileID: 2100000, guid: 737ea1a1d196b4548be80ac92c922842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_LOD1
+    second: {fileID: 2100000, guid: 737ea1a1d196b4548be80ac92c922842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_LOD2
+    second: {fileID: 2100000, guid: 737ea1a1d196b4548be80ac92c922842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v2_LOD0
+    second: {fileID: 2100000, guid: e31792aa530831d46827551d10693a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v2_LOD1
+    second: {fileID: 2100000, guid: e31792aa530831d46827551d10693a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v3_LOD0
+    second: {fileID: 2100000, guid: c227bd5711d0a3142967006bc23848df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v3_LOD1
+    second: {fileID: 2100000, guid: c227bd5711d0a3142967006bc23848df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v3_LOD2
+    second: {fileID: 2100000, guid: c227bd5711d0a3142967006bc23848df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v4_LOD0
+    second: {fileID: 2100000, guid: d8b7b88f9aee2eb478067ad88b8143b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v4_LOD1
+    second: {fileID: 2100000, guid: d8b7b88f9aee2eb478067ad88b8143b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trunk_Dead_v4_LOD2
+    second: {fileID: 2100000, guid: d8b7b88f9aee2eb478067ad88b8143b5, type: 2}
+  serializedVersion: 6
+  mainColor: {r: 1, g: 1, b: 1, a: 1}
+  hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}
+  alphaTestRef: 0.33
+  bestWindQuality: 4
+  hasBillboard: 0
+  lODSettings:
+  - height: 0.5
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 4
+  - height: 0.25
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 4
+  - height: 0.01
+    castShadows: 1
+    receiveShadows: 1
+    useLightProbes: 1
+    reflectionProbeUsage: 1
+    enableBump: 1
+    enableHue: 1
+    enableSubsurface: 1
+    windQuality: 4
+  enableSmoothLODTransition: 1
+  animateCrossFading: 1
+  billboardTransitionCrossFadeWidth: 0.25
+  fadeOutWidth: 0.25
+  scaleFactor: 0.3048
+  materialVersion: 3
+  materialLocation: 1
+  fileIDType: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
