@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9B686EF8-2399-40C1-9479-0A1842EA155C}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9B686EF8-2399-40C1-9479-0A1842EA155C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Cookie_Monster" ID="{CCEBCA38-9E6E-44DE-B065-4E92F4316BD9}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Regeneration_Start" ID="{35B1FDB1-0B8E-401D-95EE-B0129DBE962F}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Radio_PowerMode1" ID="{E231803A-E5D2-439F-AAC8-704018FA3FA0}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Outpost2" ID="{DAAD7155-915C-43B5-8A99-6EC531249518}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="OutpostWin" ID="{0FD3C620-A097-4463-9706-C2EE5A19011E}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Outpost1" ID="{4DF49A9C-0909-454E-979F-D32C7B2808AA}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Radio_PowerOn" ID="{629544DF-6133-4567-8264-EA9A9CB6E9FC}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Radio_PowerOff" ID="{A477FD18-1177-45A8-B925-04246C2F83C5}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="River" ID="{D30690D8-E494-474E-8CC6-F95200384D56}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Radio_PowerMode2" ID="{B50C7774-8C5A-4878-B9A9-2EFAE894264B}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FootStepStop" ID="{6E52F4B5-E760-4898-8417-5E84C192E15E}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Regeneration_Stop" ID="{12083C72-08A3-4972-BFE5-509EA7A58F05}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FootStepFast" ID="{3CD082FE-0BAF-4A2C-A7F2-5C990704CD33}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="FootStepSlow" ID="{81260AC3-99F1-4AAB-814F-99DB845E995F}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="InitSounds" ID="{9218D239-12B6-4BA0-9CF4-A734096BE9B7}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="RandomVoice" ID="{7B64E191-F31C-4E71-804A-4C8BD8584536}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="LanterneBuzz" ID="{7F27177D-DF7F-4EFE-A952-829B9C4CE61B}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Tuto" ID="{B719704D-117E-4FAC-93A0-4F72FF9B7C36}" WorkUnitID="{19B98524-BDC2-4CEE-9B3D-A98F7132CA40}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

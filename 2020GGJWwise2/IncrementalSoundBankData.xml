@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{DC769120-C331-45E0-9C7B-A27FC9481268}">
+		<Banks>
+			<Language ID="393239870">
+				<File Name="Cookie_Monster" Hash="3559264285" Timestamp="1580597744"/>
+				<File Name="Init" Hash="3213930243" Timestamp="1580651099"/>
+			</Language>
+			<Language ID="684519430">
+				<File Name="Cookie_Monster" Hash="4089140910" Timestamp="1580651908"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3036986816" Timestamp="1580651908"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJWwise2\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJWwise2\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJWwise2\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJWwise2\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1002808132" Language="English(US)">
+			<ObjectPath>\SoundBanks\Default Work Unit\Cookie_Monster</ObjectPath>
+			<ShortName>Cookie_Monster</ShortName>
+			<Path>English(US)\Cookie_Monster.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4141746341" Name="FootStepFast" ObjectPath="\Events\Default Work Unit\FootStepFast" MaxAttenuation="0.000000"/>
+				<Event Id="2068340824" Name="FootStepSlow" ObjectPath="\Events\Default Work Unit\FootStepSlow" MaxAttenuation="0.000000"/>
+				<Event Id="2064397943" Name="FootStepStop" ObjectPath="\Events\Default Work Unit\FootStepStop" MaxAttenuation="0.000000"/>
+				<Event Id="919333747" Name="InitSounds" ObjectPath="\Events\Default Work Unit\InitSounds"/>
+				<Event Id="3648289583" Name="LanterneBuzz" ObjectPath="\Events\Default Work Unit\LanterneBuzz" MaxAttenuation="100.000000"/>
+				<Event Id="916518642" Name="Outpost1" ObjectPath="\Events\Default Work Unit\VO\Outpost1"/>
+				<Event Id="916518641" Name="Outpost2" ObjectPath="\Events\Default Work Unit\VO\Outpost2"/>
+				<Event Id="2617162241" Name="OutpostWin" ObjectPath="\Events\Default Work Unit\VO\OutpostWin"/>
+				<Event Id="1830129474" Name="Radio_PowerMode1" ObjectPath="\Events\Default Work Unit\Radio_PowerMode1" MaxAttenuation="0.000000"/>
+				<Event Id="1830129473" Name="Radio_PowerMode2" ObjectPath="\Events\Default Work Unit\Radio_PowerMode2" MaxAttenuation="0.000000"/>
+				<Event Id="3511969607" Name="Radio_PowerOff" ObjectPath="\Events\Default Work Unit\Radio_PowerOff" MaxAttenuation="0.000000"/>
+				<Event Id="3600495859" Name="Radio_PowerOn" ObjectPath="\Events\Default Work Unit\Radio_PowerOn"/>
+				<Event Id="3219746958" Name="RandomVoice" ObjectPath="\Events\Default Work Unit\VO\RandomVoice"/>
+				<Event Id="786903173" Name="Regeneration_Start" ObjectPath="\Events\Default Work Unit\Regeneration_Start"/>
+				<Event Id="2429990183" Name="Regeneration_Stop" ObjectPath="\Events\Default Work Unit\Regeneration_Stop"/>
+				<Event Id="3605787649" Name="River" ObjectPath="\Events\Default Work Unit\River" MaxAttenuation="100.000000"/>
+				<Event Id="3037000007" Name="Tuto" ObjectPath="\Events\Default Work Unit\VO\Tuto" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="44664610" Language="SFX">
+					<ShortName>Music_Basse_Comp.wav</ShortName>
+					<Path>SFX\Music_Basse_Comp_8956FC97.wem</Path>
+				</File>
+				<File Id="49884619" Language="SFX">
+					<ShortName>Glitchs_Voice-003.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-003_56D34C19.wem</Path>
+				</File>
+				<File Id="94587314" Language="English(US)">
+					<ShortName>VO_Rand_EngagezVous.wav</ShortName>
+					<Path>Voices\English(US)\VO_Rand_EngagezVous_56D34C19.wem</Path>
+				</File>
+				<File Id="111804029" Language="SFX">
+					<ShortName>Glitchs_Voice-004.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-004_56D34C19.wem</Path>
+				</File>
+				<File Id="116150725" Language="English(US)">
+					<ShortName>VO_Monster6.wav</ShortName>
+					<Path>Voices\English(US)\VO_Monster6_56D34C19.wem</Path>
+				</File>
+				<File Id="127567747" Language="English(US)">
+					<ShortName>VO_OutpostWin.wav</ShortName>
+					<Path>Voices\English(US)\VO_OutpostWin_56D34C19.wem</Path>
+				</File>
+				<File Id="154270758" Language="SFX">
+					<ShortName>Regeneration_End.wav</ShortName>
+					<Path>SFX\Regeneration_End_56D34C19.wem</Path>
+				</File>
+				<File Id="161294390" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-004.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-004_56D34C19.wem</Path>
+				</File>
+				<File Id="171049276" Language="English(US)">
+					<ShortName>VO_Tuto2.wav</ShortName>
+					<Path>Voices\English(US)\VO_Tuto2_56D34C19.wem</Path>
+				</File>
+				<File Id="232290780" Language="English(US)">
+					<ShortName>VO_Tuto3.wav</ShortName>
+					<Path>Voices\English(US)\VO_Tuto3_56D34C19.wem</Path>
+				</File>
+				<File Id="297674016" Language="English(US)">
+					<ShortName>VO_OutpostWin-001.wav</ShortName>
+					<Path>Voices\English(US)\VO_OutpostWin-001_56D34C19.wem</Path>
+				</File>
+				<File Id="298500889" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-003.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-003_56D34C19.wem</Path>
+				</File>
+				<File Id="399695253" Language="SFX">
+					<ShortName>Regeneration_Beggining.wav</ShortName>
+					<Path>SFX\Regeneration_Beggining_56D34C19.wem</Path>
+				</File>
+				<File Id="400205641" Language="English(US)">
+					<ShortName>VO_Monster5.wav</ShortName>
+					<Path>Voices\English(US)\VO_Monster5_56D34C19.wem</Path>
+				</File>
+				<File Id="432364559" Language="SFX">
+					<ShortName>Radio_WhiteNoise.wav</ShortName>
+					<Path>SFX\Radio_WhiteNoise_D6915C82.wem</Path>
+				</File>
+				<File Id="432399664" Language="English(US)">
+					<ShortName>VO_Monster3.wav</ShortName>
+					<Path>Voices\English(US)\VO_Monster3_56D34C19.wem</Path>
+				</File>
+				<File Id="512763233" Language="English(US)">
+					<ShortName>VO_Tuto1.wav</ShortName>
+					<Path>Voices\English(US)\VO_Tuto1_56D34C19.wem</Path>
+				</File>
+				<File Id="538963164" Language="SFX">
+					<ShortName>Glitchs_Voice-005.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-005_56D34C19.wem</Path>
+				</File>
+				<File Id="567528486" Language="English(US)">
+					<ShortName>VO_Rand_Scream-001.wav</ShortName>
+					<Path>Voices\English(US)\VO_Rand_Scream-001_56D34C19.wem</Path>
+				</File>
+				<File Id="568378575" Language="SFX">
+					<ShortName>Glitchs_Voice-001.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-001_56D34C19.wem</Path>
+				</File>
+				<File Id="573773598" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-001.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-001_56D34C19.wem</Path>
+				</File>
+				<File Id="611244004" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-005.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-005_56D34C19.wem</Path>
+				</File>
+				<File Id="695847921" Language="English(US)">
+					<ShortName>VO_Rand_Rapport.wav</ShortName>
+					<Path>Voices\English(US)\VO_Rand_Rapport_56D34C19.wem</Path>
+				</File>
+				<File Id="698191384" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-002.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-002_56D34C19.wem</Path>
+				</File>
+				<File Id="744274348" Language="SFX">
+					<ShortName>Regeneration_Mid.wav</ShortName>
+					<Path>SFX\Regeneration_Mid_9974FED7.wem</Path>
+				</File>
+				<File Id="751347578" Language="SFX">
+					<ShortName>Radio_GlitchIntense.wav</ShortName>
+					<Path>SFX\Radio_GlitchIntense_E0F2B540.wem</Path>
+				</File>
+				<File Id="759752436" Language="SFX">
+					<ShortName>Music_Mel_Comp.wav</ShortName>
+					<Path>SFX\Music_Mel_Comp_8956FC97.wem</Path>
+				</File>
+				<File Id="809929223" Language="English(US)">
+					<ShortName>VO_Rand_Scream.wav</ShortName>
+					<Path>Voices\English(US)\VO_Rand_Scream_56D34C19.wem</Path>
+				</File>
+				<File Id="817911104" Language="English(US)">
+					<ShortName>VO_Rand_TrouveCrop.wav</ShortName>
+					<Path>Voices\English(US)\VO_Rand_TrouveCrop_56D34C19.wem</Path>
+				</File>
+				<File Id="821853945" Language="English(US)">
+					<ShortName>VO_Outpost1.wav</ShortName>
+					<Path>Voices\English(US)\VO_Outpost1_56D34C19.wem</Path>
+				</File>
+				<File Id="823483560" Language="SFX">
+					<ShortName>Obj_River-001.wav</ShortName>
+					<Path>SFX\Obj_River-001_56D34C19.wem</Path>
+				</File>
+				<File Id="845255798" Language="SFX">
+					<ShortName>Glitchs_Voice-002.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-002_56D34C19.wem</Path>
+				</File>
+				<File Id="873622866" Language="SFX">
+					<ShortName>Obj_River-002.wav</ShortName>
+					<Path>SFX\Obj_River-002_56D34C19.wem</Path>
+				</File>
+				<File Id="937555184" Language="SFX">
+					<ShortName>Glitchs_Voice-006.wav</ShortName>
+					<Path>SFX\Glitchs_Voice-006_56D34C19.wem</Path>
+				</File>
+				<File Id="960899747" Language="English(US)">
+					<ShortName>VO_Monster4.wav</ShortName>
+					<Path>Voices\English(US)\VO_Monster4_56D34C19.wem</Path>
+				</File>
+				<File Id="970022628" Language="English(US)">
+					<ShortName>VO_Outpost2.wav</ShortName>
+					<Path>Voices\English(US)\VO_Outpost2_56D34C19.wem</Path>
+				</File>
+				<File Id="1000270825" Language="English(US)">
+					<ShortName>VO_Monster2.wav</ShortName>
+					<Path>Voices\English(US)\VO_Monster2_56D34C19.wem</Path>
+				</File>
+				<File Id="1041733321" Language="SFX">
+					<ShortName>Obj_Lanterne_Buzz-006.wav</ShortName>
+					<Path>SFX\Obj_Lanterne_Buzz-006_56D34C19.wem</Path>
+				</File>
+				<File Id="1052434002" Language="SFX">
+					<ShortName>Radio_PowerOn.wav</ShortName>
+					<Path>SFX\Radio_PowerOn_18DA4577.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
