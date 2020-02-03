@@ -1,29 +1,3 @@
-Event	ID	Name			Wwise Object Path	Notes
-	786903173	Regeneration_Start			\Default Work Unit\Regeneration_Start	
-	919333747	InitSounds			\Default Work Unit\InitSounds	
-	2429990183	Regeneration_Stop			\Default Work Unit\Regeneration_Stop	
-	3511969607	Radio_PowerOff			\Default Work Unit\Radio_PowerOff	
-	3600495859	Radio_PowerOn			\Default Work Unit\Radio_PowerOn	
-	3605787649	River			\Default Work Unit\River	
-	3648289583	LanterneBuzz			\Default Work Unit\LanterneBuzz	
-
-Game Parameter	ID	Name			Wwise Object Path	Notes
-	3505378061	RadioGlitch			\Default Work Unit\RadioGlitch	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	154270758	Regeneration_End	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Regeneration_End_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\RegenerationRadio\Regeneration_End		354220
-	161294390	Obj_Lanterne_Buzz-004	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-004_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-004		386148
-	298500889	Obj_Lanterne_Buzz-003	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-003_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-003		411828
-	399695253	Regeneration_Beggining	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Regeneration_Beggining_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\RegenerationRadio\Regeneration\Regeneration_Beggining		594092
-	432364559	Radio_WhiteNoise	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Radio_WhiteNoise_D6915C82.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radio_Glitchs\Radio_WhiteNoise		2093948
-	573773598	Obj_Lanterne_Buzz-001	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-001_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-001		456360
-	599940985	Music_Demo3_Radio_Comp	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Music_Demo3_Radio_Comp_8956FC97.wem		\Interactive Music Hierarchy\Default Work Unit\MusicViolin2\Music_Demo3_Radio_Comp\Music_Demo3_Radio_Comp		10601116
-	611244004	Obj_Lanterne_Buzz-005	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-005_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-005		262116
-	698191384	Obj_Lanterne_Buzz-002	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-002		289460
-	744274348	Regeneration_Mid	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Regeneration_Mid_9974FED7.wem		\Actor-Mixer Hierarchy\Default Work Unit\RegenerationRadio\Regeneration\Regeneration_Mid		319988
-	751347578	Radio_GlitchIntense	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Radio_GlitchIntense_E0F2B540.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radio_Glitchs\Radio_GlitchIntense		5173444
-	823483560	Obj_River-001	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_River-001_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\River\Obj_River-001		3944264
-	873622866	Obj_River-002	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_River-002_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\River\Obj_River-002		5582804
-	1041733321	Obj_Lanterne_Buzz-006	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Obj_Lanterne_Buzz-006_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\LanterneBuzz\Obj_Lanterne_Buzz-006		411828
-	1052434002	Radio_PowerOn	C:\Users\TempAccount\Desktop\GameJams\2020GlobalJam\2020GGJWwise2\.cache\Windows\SFX\Radio_PowerOn_18DA4577.wem		\Actor-Mixer Hierarchy\Default Work Unit\Radio_PowerOn		1917752
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ea019990cb01ff8723ca9edc30db8d0893af8a58319afda1a24cc0473e45a4
+size 4191

@@ -1,35 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ValidationCache Version="1" SchemaVersion="89">
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\2020GGJWwise.wproj" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Attenuations\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Audio Devices\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Conversion Settings\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Effects\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Effects\Factory Auro Headphone.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Effects\Factory Effects.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Effects\Factory McDSP Effects.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Events\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Game Parameters\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Game Parameters\Factory Motion.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Modulators\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Presets\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Queries\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Queries\Factory Queries.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\SoundBanks\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\States\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Switches\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Triggers\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1580492329" DateHigh="0"/>
-	<ValidationCacheItem File="C:\Users\mhpit\Desktop\Games_Dev\GameJams\2020GGJ\2020GGJ\2020GGJWwise\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1580492329" DateHigh="0"/>
-</ValidationCache>
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eea3d3146709ac2310ed88b2f35c05388197b3b88e72ba720dfd1842587b7a1
+size 5704

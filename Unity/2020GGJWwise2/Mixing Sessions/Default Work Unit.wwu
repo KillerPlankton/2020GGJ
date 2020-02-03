@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1639AE04-87B6-4C79-B031-8FCF3CD77FF4}" SchemaVersion="89">
-	<MixingSessions>
-		<WorkUnit Name="Default Work Unit" ID="{1639AE04-87B6-4C79-B031-8FCF3CD77FF4}" PersistMode="Standalone"/>
-	</MixingSessions>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:571c135f06756eaf2e08b983baa1a80332ea172504405aa60acd8e7261b78fd4
+size 633

@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{90EF6E9D-9F19-40CB-BDB3-846384E2E65F}" SchemaVersion="89">
-	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{90EF6E9D-9F19-40CB-BDB3-846384E2E65F}" PersistMode="Standalone">
-			<ChildrenList>
-				<GameParameter Name="RadioGlitch" ID="{FB83DEDB-EDE2-41DE-88CD-199C95EC4067}"/>
-			</ChildrenList>
-		</WorkUnit>
-	</GameParameters>
-</WwiseDocument>
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a33a68bb10cbe0cbaf7f599adcf502450f72b00435e5f47474e2005ccfd6e7
+size 710

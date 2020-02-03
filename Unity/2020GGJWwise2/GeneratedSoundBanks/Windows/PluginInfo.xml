@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PluginInfo Project="2020GGJWwise2" Platform="Windows" BasePlatform="Windows">
-	<Plugins>
-		<Plugin Name="Wwise Tremolo" ID="8585219" DLL="AkTremolo"/>
-		<Plugin Name="System" ID="11403271" DLL="DefaultSink"/>
-		<Plugin Name="No Output" ID="11862023" DLL="DefaultSink"/>
-		<Plugin Name="Wwise Motion" ID="33226759" DLL="AkMotion"/>
-	</Plugins>
-</PluginInfo>
+version https://git-lfs.github.com/spec/v1
+oid sha256:61a9b4f8a604c9cfa3308f65d2bfc10053c51cd816443ae3ae500547177f6a26
+size 474

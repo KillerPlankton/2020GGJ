@@ -1,16 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<IncrementalBankBuild Version="6" Flags="878078161">
-	<Platform GUID="{DC769120-C331-45E0-9C7B-A27FC9481268}">
-		<Banks>
-			<Language ID="393239870">
-				<File Name="Cookie_Monster" Hash="3559264285" Timestamp="1580597744"/>
-				<File Name="Init" Hash="2452193082" Timestamp="1580597744"/>
-			</Language>
-		</Banks>
-		<XMLInfo>
-			<Language ID="-1">
-				<File Name="" Hash="3931088303" Timestamp="1580597744"/>
-			</Language>
-		</XMLInfo>
-	</Platform>
-</IncrementalBankBuild>
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1dca854b980232feded944e853437f5af4243cc26ccd281e8e921ab362f8a5
+size 652
