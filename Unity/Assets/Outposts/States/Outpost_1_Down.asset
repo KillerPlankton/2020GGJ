@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38b1bc15a7ef66a4aa3b68e1585e6eae, type: 3}
+  m_Name: Outpost_1_Down
+  m_EditorClassIdentifier: 
+  state_name: DOWN
+  light: {r: 1, g: 0, b: 0, a: 0}
+  dark: {r: 0.4627451, g: 0.043137256, b: 0.101960786, a: 0}
+  isInteractive: 1
+  isVegetationRepaied: 0

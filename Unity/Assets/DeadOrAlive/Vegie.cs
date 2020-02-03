@@ -16,19 +16,29 @@ public class Vegie : MonoBehaviour
 
     void Start()
     {
-        GO = Instantiate(this._isAlive ? aliveObject : deadObject, transform.position, Quaternion.identity);
+        this.GO = Instantiate(this._isAlive ? this.aliveObject : this.deadObject, this.transform.position, this.transform.rotation);
+        GetComponent<MeshRenderer>().enabled = false;
     }
 
     public void Kill() {
         this._isAlive = false;
-        Destroy(GO);
-        GO = Instantiate(this._isAlive ? aliveObject : deadObject, transform.position, Quaternion.identity);
+        Destroy(this.GO);
+        this.GO = Instantiate(this._isAlive ? this.aliveObject : this.deadObject, this.transform.position, this.transform.rotation);
     }
 
     public void Restore()
     {
         this._isAlive = true;
-        Destroy(GO);
-        GO = Instantiate(this._isAlive ? aliveObject : deadObject, transform.position, Quaternion.identity);
+        Destroy(this.GO);
+        this.GO = Instantiate(this._isAlive ? this.aliveObject : this.deadObject, this.transform.position, this.transform.rotation);
+    }
+
+    public GameObject getAliveObject() {
+        return this.aliveObject;
+    }
+
+    public GameObject getGO()
+    {
+        return this.GO;
     }
 }

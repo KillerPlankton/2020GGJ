@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 6062519806068641628}
   - component: {fileID: 6062519806068641631}
   - component: {fileID: 6062519806068641630}
-  - component: {fileID: 6062519806068641626}
   m_Layer: 0
   m_Name: Vegie_Killer
   m_TagString: Untagged
@@ -104,17 +103,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 52cc05d2e452a4d46a7cf8cdda0ddcf4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &6062519806068641626
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6062519806068641616}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f009cd1665b9db4d99327e559c088f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
